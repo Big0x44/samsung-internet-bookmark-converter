@@ -4,7 +4,7 @@ Converts bookmarks exported by the share functionality of Samsung Internet into 
 
 ## Motivation
 
-As of now, the [https://browser.samsung.com/beta](Samsung Internet Browser) does not support exporting bookmarks to the [https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa753582(v=vs.85)](Netscape Bookmark File Format) on android. Therefore, copying bookmarks to other browsers like [https://www.google.com/chrome/](Google Chrome) or [https://brave.com/](Brave) is pretty painful if you have a lot of bookmarks. Although Samsung Internet provides at least a way to export multiple bookmarks at once, but the format is not compatible with other browsers.
+As of now, the [Samsung Internet Browser](https://browser.samsung.com/beta) does not support exporting bookmarks to the [Netscape Bookmark File Format](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa753582(v=vs.85)) on android. Therefore, copying bookmarks to other browsers like [Google Chrome](https://www.google.com/chrome/) or [Brave](https://brave.com/) is pretty painful if you have a lot of bookmarks. Although Samsung Internet provides at least a way to export multiple bookmarks at once, but the format is not compatible with other browsers.
 
 ## Usage
 
@@ -26,7 +26,7 @@ https://duckduckgo.com/
 
 ## Step 2: Move the file to your desktop PC
 
-This can be done by using [https://localsend.org/](LocalSend).
+This can be done by using [LocalSend](https://localsend.org/).
 
 ## Step 3: Run the script
 
